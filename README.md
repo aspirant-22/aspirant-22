@@ -66,7 +66,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+<!--
 
 ## 🚀 Featured Projects
 
@@ -91,7 +91,7 @@
 - 🚀 Short description
 - ⚙️ Tech used
 
----
+-->
 
 ## 📊 GitHub Stats
 
@@ -107,7 +107,6 @@
 
 ## 🧠 Currently Learning
 
-- 📚 Data Structures & Algorithms
 - 🧩 System Design Basics
 - ⚡ Backend Optimization
 
