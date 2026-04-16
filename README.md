@@ -76,11 +76,11 @@
 - ⚡ Built using Express, MongoDB, EJS
 
 <p>
-  <a href="https://your-demo-link.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   
-  <a href="https://github.com/your-username/wanderlust" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
