@@ -17,9 +17,9 @@
 ## 🔥 About Me
 
 - 💻 Full Stack Web Developer (MERN)
-- 🌱 Currently learning **Data Structures & Algorithms + System Design**
+- 🌱 Currently learning **System Design **
 - 🚀 Love building real-world scalable applications
-- 🎯 Goal: Crack top tech companies & become a strong engineer
+- 🎯 Goal: To become a Software Engineer
 
 ---
 
